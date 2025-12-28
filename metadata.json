@@ -1,0 +1,8 @@
+{
+  "name": "Malda Mingle",
+  "description": "A regional dating and chat application for Malda District, West Bengal. Connect with locals via random chat or public groups.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
